@@ -1,4 +1,6 @@
-<?php get_template_part('templates/page', 'header'); ?>
+<div class="home-master-head">
+
+</div>
 
 <div class="row">
   <div class="col-md-3">
